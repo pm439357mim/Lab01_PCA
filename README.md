@@ -4,4 +4,4 @@
 [lab6](https://colab.research.google.com/github/pm439357mim/Lab01_PCA/blob/main/lab6.ipynb)
 [lab7](https://colab.research.google.com/github/pm439357mim/Lab01_PCA/blob/main/lab7.ipynb)
 [lab8](https://colab.research.google.com/github/pm439357mim/Lab01_PCA/blob/main/lab8.ipynb)
-
+[lab9](https://colab.research.google.com/github/pm439357mim/Lab01_PCA/blob/main/Untitled19.ipynb)
