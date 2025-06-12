@@ -6,3 +6,5 @@
 [lab8](https://colab.research.google.com/github/pm439357mim/Lab01_PCA/blob/main/lab8.ipynb)
 [lab9](https://colab.research.google.com/github/pm439357mim/Lab01_PCA/blob/main/Untitled19.ipynb)
 [lab10](https://colab.research.google.com/github/pm439357mim/Lab01_PCA/blob/main/Untitled26.ipynb)
+[lab11](https://colab.research.google.com/github/pm439357mim/Lab01_PCA/blob/main/Untitled27.ipynb)
+
