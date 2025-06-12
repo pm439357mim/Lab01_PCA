@@ -7,6 +7,6 @@
 [lab9](https://colab.research.google.com/github/pm439357mim/Lab01_PCA/blob/main/Untitled19.ipynb)
 [lab10](https://colab.research.google.com/github/pm439357mim/Lab01_PCA/blob/main/Untitled26.ipynb)
 [lab11](https://colab.research.google.com/github/pm439357mim/Lab01_PCA/blob/main/Untitled27.ipynb)
-[obrazek1](https://github.com/pm439357mim/Lab01_PCA/blob/main/mllab.png)
-[obrazek2](https://github.com/pm439357mim/Lab01_PCA/blob/main/ml_lab.png)
+[diagram - bez tła](https://github.com/pm439357mim/Lab01_PCA/blob/main/mllab.png)
+[ten sam diagram z tłem](https://github.com/pm439357mim/Lab01_PCA/blob/main/ml_lab.png)
 
