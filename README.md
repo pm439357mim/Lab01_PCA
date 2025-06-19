@@ -9,4 +9,5 @@
 [lab11](https://colab.research.google.com/github/pm439357mim/Lab01_PCA/blob/main/Untitled27.ipynb)
 [diagram - bez tła](https://github.com/pm439357mim/Lab01_PCA/blob/main/mllab.png)
 [ten sam diagram z tłem](https://github.com/pm439357mim/Lab01_PCA/blob/main/ml_lab.png)
+[lab12](https://colab.research.google.com/github/pm439357mim/Lab01_PCA/blob/main/Another_copy_of_Lab12_NLP_towards_attention.ipynb)
 
