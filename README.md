@@ -10,4 +10,6 @@
 [diagram - bez tła](https://github.com/pm439357mim/Lab01_PCA/blob/main/mllab.png)
 [ten sam diagram z tłem](https://github.com/pm439357mim/Lab01_PCA/blob/main/ml_lab.png)
 [lab12](https://colab.research.google.com/github/pm439357mim/Lab01_PCA/blob/main/Another_copy_of_Lab12_NLP_towards_attention.ipynb)
+[lab13](https://colab.research.google.com/github/pm439357mim/Lab01_PCA/blob/main/Copy_of_Lab13_towards_self_attention_(1)_(1)_(2)_(4)(1).ipynb)
+
 
